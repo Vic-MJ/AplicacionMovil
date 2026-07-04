@@ -22,6 +22,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Application"
-include(":app")
- 
+rootProject.name = "ChatCelularReloj"
+
+include(":mobile")
+include(":wear")
